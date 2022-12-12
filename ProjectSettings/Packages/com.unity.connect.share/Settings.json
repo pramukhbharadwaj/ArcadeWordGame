@@ -1,0 +1,28 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"I:/USC/CSCI526/Game_Push/TimeToKill/WebGL Builds;/Users/pramukhbharadwaj/Documents/TimeToKill/WebGL Builds;/Users/akshitgupta/Desktop/webgl;C:/Users/tirth/RiderProjects/Build/11-14;/Users/pramukhbharadwaj/Documents/TimeToKill/webglbuild2;/Users/naman/Documents/academics/fall_2022/games/build;/Users/karankathiriya/Documents/CSCI 526/TimeToKill/WebGL Builds;/Users/kabirjuneja/Documents/Unity Projects/TimeToKill/WebGL Builds;;\"}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            }
+        ]
+    }
+}

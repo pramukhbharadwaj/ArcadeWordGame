@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 2796ee191eedbb64cb21dc09be137101
+  - enabled: 1
+    path: Assets/Scenes/SliceItOff.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 7d5d5a5e921684e618371283bac83805
+  - enabled: 1
+    path: Assets/Scenes/LevelFinished.unity
+    guid: 7a2cd59d7b6004f9b993bb3fe3ebfacd
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 06475a5b8bef949839ba16a5ced5ada5
+  - enabled: 1
+    path: Assets/Scenes/Level2_old.unity
+    guid: 352c07fd4dd69406daa8cb9762a6237e
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: ce475337fdd984ab7b4661e187d354b5
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: bcada4cb004c444fc9764d835e5bd197
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 9b03a29217cf5417ab57808214bc40cd
+  - enabled: 1
+    path: Assets/Scenes/Level2-Tutorial.unity
+    guid: b44afe7cf0bad42b986828dd3625dbbd
+  - enabled: 1
+    path: Assets/Scenes/Level1-Tutorial.unity
+    guid: 3df07070961e68344b382eaa74f95c4d
+  - enabled: 1
+    path: Assets/Scenes/Level4-Tutorial.unity
+    guid: 8ab8307986c112041a86429e98d93a00
+  - enabled: 1
+    path: Assets/Scenes/Level5-Tutorial.unity
+    guid: 9ea4f8865ce17d04e8fd2a8eaf2ab0f9
+  - enabled: 1
+    path: Assets/Scenes/Level3-Tutorial.unity
+    guid: 6c81ff8bd88164e899767672516d39a5
+  - enabled: 1
+    path: Assets/Scenes/Level3_updated.unity
+    guid: f8e3eb2e34e8ed94f8c39373a6fa39d7
+  - enabled: 1
+    path: Assets/Scenes/Level3-2.unity
+    guid: f2b17818ffe8042bba20942128455cf4
+  - enabled: 1
+    path: Assets/Scenes/Level4-2.unity
+    guid: 1286f413d9f0b5745a750a80352d3fdd
+  - enabled: 1
+    path: Assets/Scenes/Level5-2.unity
+    guid: d08601404d52d4c5395a4fe57ab7ae1c
+  - enabled: 1
+    path: Assets/Scenes/Genre.unity
+    guid: 6b3101e55880146ddbedd61048934f5b
+  - enabled: 1
+    path: Assets/Scenes/Level6-Tutorial.unity
+    guid: 7867c3d12c9779b41a0fd5e38ab1a2e1
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 5c16c8bbb3c7940f88cb78ffd928d7fe
+  - enabled: 0
+    path: 
+    guid: 317d98df3b7784d63828ff3e9c7a6800
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: 3c53e8611904f4085b9dfac36273ebea
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard.unity
+    guid: f2a12fa9de6bc2f408f8b198d81cc283
+  - enabled: 1
+    path: Assets/Scenes/CannonLevel1.unity
+    guid: c0895d2139d6e4855913b21c53b24446
+  - enabled: 1
+    path: Assets/Scenes/CannonLevel3.unity
+    guid: bbaed2c11f0294c6f836a8d1b93538d4
+  - enabled: 1
+    path: Assets/Scenes/CannonLevel4.unity
+    guid: 0df6ce68a443b4876b0afd14073be037
+  - enabled: 1
+    path: Assets/Scenes/CannonLevel1-Tutorial.unity
+    guid: f8ed6170784242644b3d8a3c0d37d77b
+  - enabled: 1
+    path: Assets/Scenes/CannonLevel4-Tutorial.unity
+    guid: 771d4c9e5037a486cb6735c7e5225651
+  - enabled: 1
+    path: Assets/Scenes/CannonLevel3-Tutorial.unity
+    guid: d771aaf6771bd474a90b5a769557ae21
+  m_configObjects: {}

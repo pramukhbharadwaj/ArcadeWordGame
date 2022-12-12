@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956307617910",
+    "firebase_url": "https://timetokill-1bdbd-default-rtdb.firebaseio.com",
+    "project_id": "timetokill-1bdbd",
+    "storage_bucket": "timetokill-1bdbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956307617910:android:08e5ccb002be2b03064757",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.SliceItOff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956307617910-cpetrb2cjgu6d97akrop05teqo86gbeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4zo6fm7tNPqSRlidB0WGNLmhSauYRSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956307617910-cpetrb2cjgu6d97akrop05teqo86gbeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
